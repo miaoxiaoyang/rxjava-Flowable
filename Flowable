@@ -1,1 +1,22 @@
-### Rxjava中背压
+知识框架网址跟踪最新的结构图github
+https://github.com/Carson-Ho/RxJavaLearningMaterial
+
+操作符使用
+Android：这是一篇 清晰 & 易懂的Rxjava 入门教程
+Android RxJava：最基础的操作符详解 - 创建操作符
+Android RxJava：图文详解 变换操作符
+Android RxJava：组合 / 合并操作符 详细教程
+Android RxJava：功能性操作符 全面讲解
+
+实际应用讲解
+Android RxJava 实际应用讲解：（无条件）网络请求轮询
+Android RxJava 实际应用讲解：（有条件）网络请求轮询
+Android RxJava 实际应用讲解：网络请求嵌套回调
+Android RxJava 实际应用讲解：合并数据源
+Android RxJava 实际应用讲解：从磁盘 / 内存缓存中 获取缓存数据
+Android RxJava 实际应用讲解：联合判断
+Android RxJava：细说 线程控制（切换 / 调度 ）（含Retrofit实例讲解）
+Android RxJava 实际应用讲解：网络请求出错重连（结合Retrofit）
+
+2019.3.14 目录结合自己发展
+   Android RxJava：组合 / 合并操作符 详细教程
